@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/lucassorenson/Code/vDUNE/vDUNE.Inventory/InventorySandbox/Source/InventorySandbox/InventorySandbox.Build.cs",
+		"/Users/lucassorenson/Code/vDUNE/vDUNE.Inventory/InventorySandbox/Source/InventorySandbox.Target.cs",
+		"/Users/lucassorenson/Code/vDUNE/vDUNE.Inventory/InventorySandbox/Source/InventorySandboxEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
