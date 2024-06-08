@@ -3,3 +3,6 @@ This repository is being developed for DUNE as part of and education and outreac
 
 ## Submodules
 git submodule add https://github.com/lmsorenson/vDUNE_Avatar Source/vDUNE_Avatar
+
+## Init Submodules
+git submodule update --init

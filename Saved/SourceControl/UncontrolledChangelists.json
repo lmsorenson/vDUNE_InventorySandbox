@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/lucassorenson/Code/vDUNE/vDUNE.Inventory/Content/ThirdPerson/Blueprints/MyDuneAvatar.uasset",
 				"/Users/lucassorenson/Code/vDUNE/vDUNE.Inventory/InventorySandbox/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
 			]
 		}
