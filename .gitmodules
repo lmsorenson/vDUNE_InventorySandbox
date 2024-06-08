@@ -1,0 +1,3 @@
+[submodule "Source/vDUNE_Avatar"]
+	path = Source/vDUNE_Avatar
+	url = https://github.com/lmsorenson/vDUNE_Avatar
